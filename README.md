@@ -13,6 +13,7 @@ Cookbooks out in the community that already have cross-platform support, includi
 Besides Pivotal Sprout, there are lots of great community cookbooks used to set up other aspects of your Mac OS X system. Some of them are used here as dependencies. Among them:
 
 * [dmg](http://ckbk.it/dmg), for managing and installing applications off DMGs
+* [homebrew](http://ckbk.it/homebrew), to replace Chef's default `package` provider on Mac OS X with HomeBrew
 * [mac_os_x](http://ckbk.it/mac_os_x), some LWRPs for managing plist files
 * [xquartz](http://ckbk.it/xquartz), for installing XQuartz (X11)
 * [1password](http://ckbk.it/1password), for installing the 1Password password manager
